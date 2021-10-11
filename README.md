@@ -1,3 +1,3 @@
 # Lógica de Programação
 
-Repositório dos cursos de Lógica de Programação, no qual foram desenvolvidos projetos com JavaScript e HTML.
+Repositório dos cursos de __*Lógica de Programação*__, no qual foram desenvolvidos projetos com __JavaScript__ e __HTML__.
